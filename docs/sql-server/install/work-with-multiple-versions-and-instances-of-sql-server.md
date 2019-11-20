@@ -78,7 +78,7 @@ SQL Server の複数のインスタンスをインストールすること、ま
   
 例:セットアップ サポート ファイル。
   
-### <a name="components-specific-to-an-instance-of-includessnoversionincludesssnoversion-mdmd"></a>のインスタンスに固有のコンポーネント [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)]
+### <a name="components-specific-to-an-instance-of-includessnoversionincludesssnoversion-mdmd"></a>[!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)]のインスタンスに固有のコンポーネント 
 
 [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] のコンポーネントまたはサービスには、 [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)]のインスタンスに固有のものがあります。 これらは、インスタンス対応とも呼ばれます。 また、これらをホストしているインスタンスとバージョンが同じで、そのインスタンスにのみ使用されます。
   
